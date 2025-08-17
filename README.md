@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1927-maximum-ascending-subarray-sum) |
 ## Hash Table
 |  |
 | ------- |
