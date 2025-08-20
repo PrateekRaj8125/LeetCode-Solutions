@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [1642-water-bottles](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1642-water-bottles) |
 ## Two Pointers
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0067-add-binary) |
 ## Trie
 |  |
 | ------- |
@@ -87,9 +89,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [1642-water-bottles](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1642-water-bottles) |
 ## Sorting
 |  |
 | ------- |
 | [1019-squares-of-a-sorted-array](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
