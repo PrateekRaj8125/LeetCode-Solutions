@@ -157,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0112-path-sum) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
