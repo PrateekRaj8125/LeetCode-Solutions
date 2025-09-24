@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0041-first-missing-positive](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
+| [0041-first-missing-positive](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0202-happy-number) |
