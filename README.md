@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0830-largest-triangle-area](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0830-largest-triangle-area) |
 | [1019-squares-of-a-sorted-array](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0830-largest-triangle-area](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0830-largest-triangle-area) |
 | [1642-water-bottles](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1642-water-bottles) |
 ## Two Pointers
 |  |
@@ -226,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
