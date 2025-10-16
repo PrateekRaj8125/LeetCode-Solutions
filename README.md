@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Linked List
 |  |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Database
 |  |
 | ------- |
