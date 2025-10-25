@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [0289-game-of-life](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0289-game-of-life) |
 | [0303-range-sum-query-immutable](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0349-intersection-of-two-arrays](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0830-largest-triangle-area](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0830-largest-triangle-area) |
 | [1019-squares-of-a-sorted-array](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Binary Search
 |  |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1019-squares-of-a-sorted-array](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 ## Greedy
 |  |
@@ -191,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1019-squares-of-a-sorted-array](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Bit Manipulation
