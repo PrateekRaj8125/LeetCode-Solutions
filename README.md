@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0289-game-of-life) |
 | [0303-range-sum-query-immutable](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0419-battleships-in-a-board](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0419-battleships-in-a-board) |
 | [0830-largest-triangle-area](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0830-largest-triangle-area) |
 | [1019-squares-of-a-sorted-array](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0386-lexicographical-numbers) |
+| [0419-battleships-in-a-board](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0419-battleships-in-a-board) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0289-game-of-life](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0289-game-of-life) |
+| [0419-battleships-in-a-board](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0419-battleships-in-a-board) |
 ## Binary Search Tree
 |  |
 | ------- |
