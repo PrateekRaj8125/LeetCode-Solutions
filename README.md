@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0278-first-bad-version](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
@@ -360,4 +361,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
