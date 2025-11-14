@@ -1,30 +1,23 @@
 class Solution {
-    public String reverseVowels(String s) {
-        char[] ch=s.toCharArray();
-        int left=0,right=ch.length-1;
-        while(left<right){
-            if(isVowel(ch[left])&&isVowel(ch[right])){
-                char temp=ch[left];
-                ch[left]=ch[right];
-                ch[right]=temp;
-                left++;
-                right--;
-            }
-            else{
-                if(!(isVowel(ch[left])))
-                    left++;
-                if(!(isVowel(ch[right])))
-                    right--;
-            }
-        }
-        String ans=new String(ch);
-        return ans;
+    private static final boolean[] vowel = new boolean[128];
+    static {
+        vowel['a'] = vowel['e'] = vowel['i'] = vowel['o'] = vowel['u'] = true;
+        vowel['A'] = vowel['E'] = vowel['I'] = vowel['O'] = vowel['U'] = true;
     }
-    boolean isVowel(char ch){
-        ch=Character.toLowerCase(ch);
-        if(ch=='a'||ch=='e'||ch=='i'||ch=='o'||ch=='u')
-            return true;
-        else
-            return false;
+    public String reverseVowels(String s) {
+        char[] ch = s.toCharArray();
+        int left = 0, right = ch.length - 1;
+        while (left < right) {
+            while (left < right && !vowel[ch[left]]) 
+                left++;
+            while (left < right && !vowel[ch[right]]) 
+                right--;
+            char temp = ch[left];
+            ch[left] = ch[right];
+            ch[right] = temp;
+            left++;
+            right--;
+        }
+        return new String(ch);
     }
 }
