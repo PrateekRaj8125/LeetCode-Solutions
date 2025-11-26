@@ -8,8 +8,6 @@ class Solution {
             if(cht[i]!=chs[i])
                 return cht[i];
         }
-        if(cht.length>chs.length)
             return cht[cht.length-1];
-        return ' ';
     }
 }
