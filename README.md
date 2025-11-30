@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0386-lexicographical-numbers](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0386-lexicographical-numbers) |
+| [0404-sum-of-left-leaves](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0419-battleships-in-a-board](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0463-island-perimeter) |
 ## Breadth-First Search
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0112-path-sum) |
+| [0404-sum-of-left-leaves](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0463-island-perimeter) |
 ## Binary Tree
 |  |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 ## Database
 |  |
 | ------- |
