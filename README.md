@@ -357,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
+| [0513-find-bottom-left-tree-value](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0419-battleships-in-a-board](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0463-island-perimeter) |
+| [0513-find-bottom-left-tree-value](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0463-island-perimeter) |
+| [0513-find-bottom-left-tree-value](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 ## Binary Tree
 |  |
 | ------- |
@@ -397,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
+| [0513-find-bottom-left-tree-value](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 ## Database
 |  |
 | ------- |
