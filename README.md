@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0500-keyboard-row) |
+| [0520-detect-capital](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0520-detect-capital) |
 | [0537-complex-number-multiplication](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0537-complex-number-multiplication) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
