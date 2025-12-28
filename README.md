@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0830-largest-triangle-area) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1019-squares-of-a-sorted-array](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0441-arranging-coins) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0289-game-of-life) |
 | [0419-battleships-in-a-board](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0463-island-perimeter) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Binary Search Tree
 |  |
 | ------- |
