@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0575-distribute-candies) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -411,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -428,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Database
 |  |
