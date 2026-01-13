@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0575-distribute-candies) |
+| [0598-range-addition-ii](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0598-range-addition-ii) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0830-largest-triangle-area](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0830-largest-triangle-area) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0492-construct-the-rectangle) |
 | [0537-complex-number-multiplication](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0537-complex-number-multiplication) |
+| [0598-range-addition-ii](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0598-range-addition-ii) |
 | [0830-largest-triangle-area](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0830-largest-triangle-area) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1266-minimum-time-visiting-all-points](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
