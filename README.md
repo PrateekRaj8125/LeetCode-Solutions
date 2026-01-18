@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1390-four-divisors](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1390-four-divisors) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1895-largest-magic-square](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1895-largest-magic-square) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1975-maximum-matrix-sum](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1975-maximum-matrix-sum) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [1895-largest-magic-square](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1895-largest-magic-square) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Simulation
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1895-largest-magic-square](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1975-maximum-matrix-sum) |
 ## Binary Search Tree
 |  |
