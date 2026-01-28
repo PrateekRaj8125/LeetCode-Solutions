@@ -1,42 +1,41 @@
 class Solution {
-    List<List<String>> res = new ArrayList<>();
-    boolean[] cols;
-    boolean[] diag1;
-    boolean[] diag2;
-    char[][] board;
     public List<List<String>> solveNQueens(int n) {
-        cols = new boolean[n];
-        diag1 = new boolean[2 * n];
-        diag2 = new boolean[2 * n];
-        board = new char[n][n];
-        for (int i = 0; i < n; i++) {
-            Arrays.fill(board[i], '.');
+        List<List<String>> ans=new ArrayList<>();
+        List<String> board=new ArrayList<>();
+        for(int i=0;i<n;i++){
+            board.add(".".repeat(n));
         }
-        backtrack(0, n);
-        return res;
+        int[] leftRow=new int[n];
+        int[] upperDiagonal=new int[2*n-1];
+        int[] lowerDiagonal=new int[2*n-1];
+        solve(0,board,ans,leftRow,upperDiagonal,lowerDiagonal,n);
+        return ans;
     }
-    private void backtrack(int row, int n) {
-        if (row == n) {
-            res.add(constructBoard());
+    private void solve(int col,List<String> board,List<List<String>> ans, int[] leftRow, int[] upperDiagonal, int[] lowerDiagonal, int n){
+        if(col==n){
+            ans.add(new ArrayList<>(board));
             return;
         }
-        for (int col = 0; col < n; col++) {
-            int d1 = row - col + n;
-            int d2 = row + col;
-            if (cols[col] || diag1[d1] || diag2[d2]) 
-                continue;
-            board[row][col] = 'Q';
-            cols[col] = diag1[d1] = diag2[d2] = true;
-            backtrack(row + 1, n);
-            board[row][col] = '.';
-            cols[col] = diag1[d1] = diag2[d2] = false;
+        for(int row=0;row<n;row++){
+            if(leftRow[row]==0 && lowerDiagonal[row+col]==0 && upperDiagonal[n-1+col-row]==0){
+                
+                char[] currRow = board.get(row).toCharArray();
+                currRow[col] = 'Q';
+                board.set(row, new String(currRow));
+
+                leftRow[row]=1;
+                lowerDiagonal[row+col]=1;
+                upperDiagonal[n-1+col-row]=1;
+
+                solve(col+1,board,ans,leftRow,upperDiagonal,lowerDiagonal,n);
+
+                currRow[col] = '.';
+                board.set(row, new String(currRow));
+
+                leftRow[row]=0;
+                lowerDiagonal[row+col]=0;
+                upperDiagonal[n-1+col-row]=0;
+            }
         }
-    }
-    private List<String> constructBoard() {
-        List<String> result = new ArrayList<>();
-        for (char[] row : board) {
-            result.add(new String(row));
-        }
-        return result;
     }
 }
