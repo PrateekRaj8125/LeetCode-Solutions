@@ -1,0 +1,13 @@
+class Solution{
+    public int minRemoval(int[] nums, int k){
+        Arrays.sort(nums);
+        int n=nums.length,l=0,maxWindow=1;
+        for (int r=0;r<n;r++) {
+            while ((long)nums[r]>(long)nums[l]*k){
+                l++;
+            }
+            maxWindow=Math.max(maxWindow,r-l+1);
+        }
+        return n-maxWindow;
+    }
+}
