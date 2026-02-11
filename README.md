@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3634-minimum-removals-to-balance-array](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3637-trionic-array-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3721-longest-balanced-subarray-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3721-longest-balanced-subarray-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [3719-longest-balanced-subarray-i](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3721-longest-balanced-subarray-ii) |
 ## Math
 |  |
 | ------- |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3719-longest-balanced-subarray-i](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3721-longest-balanced-subarray-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -587,4 +591,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3721-longest-balanced-subarray-ii) |
 <!---LeetCode Topics End-->
