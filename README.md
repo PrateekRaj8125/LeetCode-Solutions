@@ -393,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0461-hamming-distance](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0645-set-mismatch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
