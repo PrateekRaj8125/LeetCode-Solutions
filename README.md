@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
+| [0761-special-binary-string](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0761-special-binary-string) |
 | [3719-longest-balanced-subarray-i](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3721-longest-balanced-subarray-ii) |
 ## Math
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0709-to-lower-case) |
+| [0761-special-binary-string](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0761-special-binary-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3606-coupon-code-validator](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3606-coupon-code-validator) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0645-set-mismatch) |
+| [0761-special-binary-string](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0761-special-binary-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
