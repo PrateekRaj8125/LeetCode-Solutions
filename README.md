@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0709-to-lower-case) |
 | [0761-special-binary-string](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0761-special-binary-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3606-coupon-code-validator](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3606-coupon-code-validator) |
 | [3713-longest-balanced-substring-i](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3713-longest-balanced-substring-i) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0868-binary-gap) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -611,4 +614,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3721-longest-balanced-subarray-ii) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
