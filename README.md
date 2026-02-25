@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1390-four-divisors) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0868-binary-gap) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -564,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3713-longest-balanced-substring-i](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Design
 |  |
