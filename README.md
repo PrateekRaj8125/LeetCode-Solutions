@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0392-is-subsequence) |
