@@ -608,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0627-swap-sex-of-employees) |
 | [1193-monthly-transactions-i](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1193-monthly-transactions-i) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1978-employees-whose-manager-left-the-company) |
 ## Matrix
 |  |
