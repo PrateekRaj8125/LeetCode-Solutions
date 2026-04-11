@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1390-four-divisors](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1390-four-divisors) |
 | [1470-shuffle-the-array](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1980-find-unique-binary-string](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -705,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0561-array-partition) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Enumeration
 |  |
 | ------- |
