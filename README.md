@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1895-largest-magic-square) |
+| [1920-build-array-from-permutation](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1929-concatenation-of-array](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1975-maximum-matrix-sum](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1975-maximum-matrix-sum) |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1441-build-an-array-with-stack-operations](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1642-water-bottles](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1642-water-bottles) |
+| [1920-build-array-from-permutation](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2043-simple-bank-system](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2043-simple-bank-system) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
