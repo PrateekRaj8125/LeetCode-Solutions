@@ -379,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0636-exclusive-time-of-functions](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0636-exclusive-time-of-functions) |
 | [0682-baseball-game](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [1441-build-an-array-with-stack-operations](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
@@ -571,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -596,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
