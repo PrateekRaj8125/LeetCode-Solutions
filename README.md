@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0709-to-lower-case) |
 | [0761-special-binary-string](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0761-special-binary-string) |
+| [0796-rotate-string](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0796-rotate-string) |
 ## Prefix Sum
 |  |
 | ------- |
