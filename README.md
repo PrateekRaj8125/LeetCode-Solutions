@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0697-degree-of-an-array) |
 | [0763-partition-labels](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0763-partition-labels) |
+| [0771-jewels-and-stones](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0709-to-lower-case) |
 | [0761-special-binary-string](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0761-special-binary-string) |
 | [0763-partition-labels](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0763-partition-labels) |
+| [0771-jewels-and-stones](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
