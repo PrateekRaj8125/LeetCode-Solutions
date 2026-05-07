@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0804-unique-morse-code-words](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0804-unique-morse-code-words) |
 | [0830-largest-triangle-area](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0830-largest-triangle-area) |
+| [0942-di-string-match](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0942-di-string-match) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1019-squares-of-a-sorted-array](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
 | [0763-partition-labels](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0763-partition-labels) |
 | [0876-middle-of-the-linked-list](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [0942-di-string-match](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0942-di-string-match) |
 | [1019-squares-of-a-sorted-array](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2396-strictly-palindromic-number](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
 | [0763-partition-labels](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0763-partition-labels) |
+| [0942-di-string-match](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0942-di-string-match) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0804-unique-morse-code-words) |
+| [0942-di-string-match](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0942-di-string-match) |
 | [1108-defanging-an-ip-address](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
