@@ -361,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0804-unique-morse-code-words) |
 | [0942-di-string-match](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0942-di-string-match) |
+| [1021-remove-outermost-parentheses](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0590-n-ary-tree-postorder-traversal](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0636-exclusive-time-of-functions](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0636-exclusive-time-of-functions) |
 | [0682-baseball-game](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0682-baseball-game) |
+| [1021-remove-outermost-parentheses](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Linked List
