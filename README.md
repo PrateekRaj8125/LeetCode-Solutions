@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
 | [0763-partition-labels](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0763-partition-labels) |
 | [0942-di-string-match](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0942-di-string-match) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1108-defanging-an-ip-address](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1108-defanging-an-ip-address) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -750,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2833-furthest-point-from-origin](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2833-furthest-point-from-origin) |
 | [3713-longest-balanced-substring-i](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3713-longest-balanced-substring-i) |
