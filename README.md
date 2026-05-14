@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1266-minimum-time-visiting-all-points](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1390-four-divisors](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1390-four-divisors) |
 | [1642-water-bottles](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1642-water-bottles) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
