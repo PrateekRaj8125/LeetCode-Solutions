@@ -373,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1108-defanging-an-ip-address](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
