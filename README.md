@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1390-four-divisors](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1390-four-divisors) |
+| [1486-xor-operation-in-an-array](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1642-water-bottles](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1642-water-bottles) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
@@ -561,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1486-xor-operation-in-an-array](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
