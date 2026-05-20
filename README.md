@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1528-shuffle-string) |
 | [1534-count-good-triplets](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1534-count-good-triplets) |
+| [1572-matrix-diagonal-sum](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -753,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0832-flipping-an-image](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1895-largest-magic-square](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1895-largest-magic-square) |
