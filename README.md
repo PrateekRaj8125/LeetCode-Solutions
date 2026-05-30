@@ -758,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-movie-rating](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1341-movie-rating) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1587-bank-account-summary-ii](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1587-bank-account-summary-ii) |
+| [1683-invalid-tweets](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1683-invalid-tweets) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1978-employees-whose-manager-left-the-company) |
 ## Matrix
 |  |
