@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1642-water-bottles](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1642-water-bottles) |
+| [1688-count-of-matches-in-tournament](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1603-design-parking-system](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1603-design-parking-system) |
 | [1642-water-bottles](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1642-water-bottles) |
+| [1688-count-of-matches-in-tournament](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1914-cyclically-rotating-a-grid](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [1920-build-array-from-permutation](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
