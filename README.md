@@ -771,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1587-bank-account-summary-ii](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1587-bank-account-summary-ii) |
 | [1683-invalid-tweets](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1693-daily-leads-and-partners) |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1978-employees-whose-manager-left-the-company) |
 ## Matrix
 |  |
