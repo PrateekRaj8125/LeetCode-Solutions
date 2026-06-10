@@ -784,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1693-daily-leads-and-partners](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1693-daily-leads-and-partners) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
+| [1795-rearrange-products-table](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1795-rearrange-products-table) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1978-employees-whose-manager-left-the-company) |
 ## Matrix
 |  |
