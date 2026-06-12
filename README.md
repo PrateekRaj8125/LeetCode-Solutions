@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
+| [1656-design-an-ordered-stream](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1656-design-an-ordered-stream) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1512-number-of-good-pairs](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1656-design-an-ordered-stream](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1656-design-an-ordered-stream) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -853,6 +855,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [1603-design-parking-system](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1603-design-parking-system) |
+| [1656-design-an-ordered-stream](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1656-design-an-ordered-stream) |
 | [2043-simple-bank-system](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2043-simple-bank-system) |
 ## Monotonic Stack
 |  |
@@ -935,4 +938,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-find-center-of-star-graph](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1791-find-center-of-star-graph) |
+## Data Stream
+|  |
+| ------- |
+| [1656-design-an-ordered-stream](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1656-design-an-ordered-stream) |
 <!---LeetCode Topics End-->
