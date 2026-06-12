@@ -431,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1816-truncate-sentence](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1844-replace-all-digits-with-characters](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1844-replace-all-digits-with-characters) |
 | [1859-sorting-the-sentence](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1859-sorting-the-sentence) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1980-find-unique-binary-string](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
