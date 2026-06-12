@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1390-four-divisors](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1390-four-divisors) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -812,6 +813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0832-flipping-an-image](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
