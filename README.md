@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2043-simple-bank-system](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2043-simple-bank-system) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1975-maximum-matrix-sum) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3074-apple-redistribution-into-boxes](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3689-maximum-total-subarray-value-i](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
@@ -609,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
@@ -927,6 +930,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Enumeration
 |  |
 | ------- |
