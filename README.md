@@ -366,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2396-strictly-palindromic-number](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
+| [3794-reverse-string-prefix](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3794-reverse-string-prefix) |
 ## Greedy
 |  |
 | ------- |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3606-coupon-code-validator) |
 | [3713-longest-balanced-substring-i](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3794-reverse-string-prefix](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3794-reverse-string-prefix) |
 | [3838-weighted-word-mapping](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Trie
 |  |
