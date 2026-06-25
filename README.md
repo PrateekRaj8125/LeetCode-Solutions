@@ -840,6 +840,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1757-recyclable-and-low-fat-products](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
 | [1795-rearrange-products-table](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1795-rearrange-products-table) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1978-employees-whose-manager-left-the-company) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Matrix
 |  |
 | ------- |
