@@ -325,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-water-bottles-ii](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3336-water-bottles-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3516-find-closest-person](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3516-find-closest-person) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3783-mirror-distance-of-an-integer](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3783-mirror-distance-of-an-integer) |
