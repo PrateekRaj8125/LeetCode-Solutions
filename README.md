@@ -472,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3110-score-of-a-string) |
 | [3280-convert-date-to-binary](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3280-convert-date-to-binary) |
+| [3498-reverse-degree-of-a-string](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3606-coupon-code-validator](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3606-coupon-code-validator) |
 | [3713-longest-balanced-substring-i](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3713-longest-balanced-substring-i) |
@@ -593,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3336-water-bottles-ii](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3336-water-bottles-ii) |
 | [3379-transformed-array](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3379-transformed-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3701-compute-alternating-sum) |
 | [3838-weighted-word-mapping](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 | [3925-concatenate-array-with-reverse](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
