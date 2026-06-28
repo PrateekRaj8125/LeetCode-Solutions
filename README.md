@@ -471,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2833-furthest-point-from-origin) |
 | [2942-find-words-containing-character](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3110-score-of-a-string) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3280-convert-date-to-binary](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3280-convert-date-to-binary) |
 | [3498-reverse-degree-of-a-string](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -670,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -943,6 +945,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1980-find-unique-binary-string](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Interactive
 |  |
 | ------- |
