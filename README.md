@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2043-simple-bank-system](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2043-simple-bank-system) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3146-permutation-difference-between-two-strings](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -477,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2833-furthest-point-from-origin) |
 | [2942-find-words-containing-character](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3110-score-of-a-string) |
+| [3146-permutation-difference-between-two-strings](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3280-convert-date-to-binary](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3280-convert-date-to-binary) |
 | [3498-reverse-degree-of-a-string](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
