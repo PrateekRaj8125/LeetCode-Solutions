@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3719-longest-balanced-subarray-i](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3838-weighted-word-mapping](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3676-smallest-number-with-all-set-bits](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3783-mirror-distance-of-an-integer) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3945-digit-frequency-score](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
 |  |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2396-strictly-palindromic-number](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3794-reverse-string-prefix](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3794-reverse-string-prefix) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -624,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-reverse-degree-of-a-string](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3701-compute-alternating-sum) |
 | [3838-weighted-word-mapping](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Sorting
 |  |
@@ -668,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3467-transform-array-by-parity](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3467-transform-array-by-parity) |
 | [3606-coupon-code-validator](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3606-coupon-code-validator) |
 | [3634-minimum-removals-to-balance-array](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -977,6 +982,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
 |  |
 | ------- |
