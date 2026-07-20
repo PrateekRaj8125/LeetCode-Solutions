@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
+| [1260-shift-2d-grid](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1313-decompress-run-length-encoded-list](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1313-decompress-run-length-encoded-list) |
 | [1331-rank-transform-of-an-array](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -610,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
+| [1260-shift-2d-grid](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1389-create-target-array-in-the-given-order](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1441-build-an-array-with-stack-operations](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
@@ -907,6 +909,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0832-flipping-an-image](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
+| [1260-shift-2d-grid](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
