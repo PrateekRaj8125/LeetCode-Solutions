@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2906-construct-product-matrix](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2906-construct-product-matrix) |
 | [2942-find-words-containing-character](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -716,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
