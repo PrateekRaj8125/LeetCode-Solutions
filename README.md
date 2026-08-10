@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1260-shift-2d-grid](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1313-decompress-run-length-encoded-list](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1313-decompress-run-length-encoded-list) |
 | [1331-rank-transform-of-an-array](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1331-rank-transform-of-an-array](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0763-partition-labels) |
 | [0942-di-string-match](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0942-di-string-match) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1323-maximum-69-number](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1323-maximum-69-number) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
