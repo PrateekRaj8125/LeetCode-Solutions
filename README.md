@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3146-permutation-difference-between-two-strings](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -522,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3110-score-of-a-string) |
 | [3146-permutation-difference-between-two-strings](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -781,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 ## Tree
