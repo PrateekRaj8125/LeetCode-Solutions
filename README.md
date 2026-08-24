@@ -502,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1528-shuffle-string](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1528-shuffle-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -1047,6 +1048,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0257-binary-tree-paths](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1980-find-unique-binary-string](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
