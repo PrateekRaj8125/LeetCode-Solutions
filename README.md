@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-sum-of-variable-length-subarrays](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3467-transform-array-by-parity](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3467-transform-array-by-parity) |
+| [3483-unique-3-digit-even-numbers](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3146-permutation-difference-between-two-strings](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -612,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## String Matching
 |  |
 | ------- |
@@ -1092,6 +1095,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3713-longest-balanced-substring-i](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Segment Tree
