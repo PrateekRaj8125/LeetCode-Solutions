@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2396-strictly-palindromic-number](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3794-reverse-string-prefix](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3794-reverse-string-prefix) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
@@ -728,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3467-transform-array-by-parity](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3467-transform-array-by-parity) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
