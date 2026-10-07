@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-construct-uniform-parity-array-ii](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
+| [4020-elevator-requests-i](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/4020-elevator-requests-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -701,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3838-weighted-word-mapping](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
+| [4020-elevator-requests-i](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/4020-elevator-requests-i) |
 ## Sorting
 |  |
 | ------- |
