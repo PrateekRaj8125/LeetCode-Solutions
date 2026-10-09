@@ -381,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [2843-count-symmetric-integers](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2843-count-symmetric-integers) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3099-harshad-number](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3099-harshad-number) |
@@ -1127,6 +1128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2367-number-of-arithmetic-triplets](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
+| [2843-count-symmetric-integers](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2843-count-symmetric-integers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
