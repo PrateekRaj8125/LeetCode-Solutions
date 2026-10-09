@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2906-construct-product-matrix](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2906-construct-product-matrix) |
 | [2942-find-words-containing-character](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
@@ -560,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2315-count-asterisks](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2315-count-asterisks) |
 | [2325-decode-the-message](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2325-decode-the-message) |
 | [2418-sort-the-people](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2418-sort-the-people) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2833-furthest-point-from-origin](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2833-furthest-point-from-origin) |
 | [2942-find-words-containing-character](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
