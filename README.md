@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3074-apple-redistribution-into-boxes](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
+| [3131-find-the-integer-added-to-array-i](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
