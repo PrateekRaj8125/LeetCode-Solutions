@@ -415,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-construct-uniform-parity-array-ii](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3894-traffic-signal-color](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3894-traffic-signal-color) |
 | [3945-digit-frequency-score](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3945-digit-frequency-score) |
+| [3986-number-of-elapsed-seconds-between-two-times](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 ## Two Pointers
 |  |
 | ------- |
@@ -593,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3794-reverse-string-prefix](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3794-reverse-string-prefix) |
 | [3838-weighted-word-mapping](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 | [3894-traffic-signal-color](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3894-traffic-signal-color) |
+| [3986-number-of-elapsed-seconds-between-two-times](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 ## Trie
 |  |
 | ------- |
