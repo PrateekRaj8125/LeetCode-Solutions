@@ -403,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-water-bottles-ii](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3336-water-bottles-ii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -589,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3280-convert-date-to-binary](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3280-convert-date-to-binary) |
 | [3340-check-balanced-string](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3340-check-balanced-string) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -727,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3336-water-bottles-ii](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3336-water-bottles-ii) |
 | [3379-transformed-array](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3379-transformed-array) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3701-compute-alternating-sum) |
@@ -1112,6 +1115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
@@ -1180,6 +1184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Brainteaser
 |  |
 | ------- |
