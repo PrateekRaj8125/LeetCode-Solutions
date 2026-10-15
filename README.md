@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2906-construct-product-matrix](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2906-construct-product-matrix) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2942-find-words-containing-character](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -1175,6 +1177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3721-longest-balanced-subarray-ii) |
 ## Rolling Hash
@@ -1216,4 +1219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
