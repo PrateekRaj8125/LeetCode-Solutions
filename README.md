@@ -478,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3794-reverse-string-prefix](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3794-reverse-string-prefix) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3884-first-matching-character-from-both-ends](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3884-first-matching-character-from-both-ends) |
 ## Greedy
 |  |
 | ------- |
@@ -617,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3760-maximum-substrings-with-distinct-start](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3794-reverse-string-prefix) |
 | [3838-weighted-word-mapping](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
+| [3884-first-matching-character-from-both-ends](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3884-first-matching-character-from-both-ends) |
 | [3894-traffic-signal-color](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3894-traffic-signal-color) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 ## Trie
