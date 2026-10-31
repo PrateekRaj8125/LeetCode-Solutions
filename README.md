@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3637-trionic-array-i) |
+| [3665-twisted-mirror-path-count](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3668-restore-finishing-order](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3668-restore-finishing-order) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
@@ -895,6 +896,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
+| [3665-twisted-mirror-path-count](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Memoization
 |  |
@@ -1093,6 +1095,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3665-twisted-mirror-path-count](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/3665-twisted-mirror-path-count) |
 ## Binary Search Tree
 |  |
 | ------- |
