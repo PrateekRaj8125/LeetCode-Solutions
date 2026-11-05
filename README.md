@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2574-left-and-right-sum-differences](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2678-number-of-senior-citizens](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2678-number-of-senior-citizens) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -609,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2325-decode-the-message](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2325-decode-the-message) |
 | [2409-count-days-spent-together](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
 | [2418-sort-the-people](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2418-sort-the-people) |
+| [2678-number-of-senior-citizens](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2678-number-of-senior-citizens) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/PrateekRaj8125/LeetCode-Solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
